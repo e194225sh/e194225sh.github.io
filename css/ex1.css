@@ -1,0 +1,27 @@
+h1{
+    color:coral;
+    text-align: center;
+    background-color:cornsilk;
+}
+
+h2{
+    color:darkturquoise;
+    text-align: center;
+    background-color:beige;
+}
+
+tr{
+    background-color:blanchedalmond;
+}
+
+
+
+body{
+    background-image: url("../images/05.jpg");
+    background-attachment: fixed;
+    
+}
+
+ol{
+    background-image: url("../images/06.jpg");
+}
