@@ -1,0 +1,30 @@
+h1#page{
+    color:darkorange;
+    text-align: center;
+    background-color:darkcyan;
+}
+
+h1#link{
+    color:floralwhite;
+    text-align: center;
+    background-color:darkviolet;
+}
+
+h2#spy{
+    color:crimson;
+    text-align: center;
+    background-color:beige;
+}
+
+h2#hero{
+    color:yellow;
+    text-align: center;
+    background-color:black;
+}
+
+
+body{
+    background-image: url("../images/04.jpg");
+    background-attachment: fixed;
+    
+}
