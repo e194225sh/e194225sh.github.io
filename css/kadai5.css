@@ -1,0 +1,67 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: aquamarine;
+    font-size: 30px;
+    font-family: "Inpact";
+    margin-bottom: 20px;
+}
+
+div.back{
+    width: 1000px;
+    height: 320px;
+    background-color:aliceblue;
+    font-size: 0px; 
+    margin-bottom: 20px;
+    
+}
+
+div.menu{
+    width: 250px;
+    height: 320px;
+    background-color: chartreuse;
+    vertical-align: top;
+    display:inline-block;
+}
+
+div.aaa{
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 10px;
+    font-size:30px;
+    text-align:center;
+}
+
+div.bbb{    
+    width: 700px;
+    height: 320px;
+    background-color:chartreuse;
+    display:inline-block;
+    vertical-align: top;
+    margin-left: 50px;
+}
+
+div.img{
+    width: 700px;
+    height: 300px;
+    background-color: black;
+}
+
+div.ccc{
+    width: 700px;
+    height: 20px;
+    background-color: blue;
+    font-size: 15px;
+    
+}
+
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: orange;
+    font-size: 30px;
+    text-align: right
+}
+
