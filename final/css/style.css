@@ -1,0 +1,81 @@
+body{
+    background-image: url("..//images/104.jpg");
+    background-attachment:scroll;
+}
+
+h1 {
+    color:white;
+    background-color:hotpink;
+    font-weight: 50px;
+    text-align: center;
+}
+
+h2{
+    font-weight: 30px;
+}
+
+h3{
+    font-size: 25px;
+    background-color: azure;
+    color:firebrick;
+}
+
+h4{
+    font-size: 20px;
+}
+
+span.gazo{
+    margin-left: 175px; 
+}
+
+span.myuzu{
+    display: inline-block;
+    width: 400px;
+    height: 40px;
+    background-color:palevioletred;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 175px;   
+}
+
+span.aqours{
+    display: inline-block;
+    width: 400px;
+    height: 40px;
+    background-color:aqua;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 175px; 
+}
+
+span.nijigasaki{
+    display: inline-block;
+    width: 400px;
+    height: 40px;
+    background-color:darkorange;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 175px; 
+}
+
+span.arise{
+    display: inline-block;
+    width: 400px;
+    height: 40px;
+    background-color:yellow;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 175px; 
+}
+
+span.saint{
+    display: inline-block;
+    width: 400px;
+    height: 40px;
+    background-color:whitesmoke;
+    font-size: 25px;
+    text-align:center;
+    margin-left: 175px; 
+}
+
+
